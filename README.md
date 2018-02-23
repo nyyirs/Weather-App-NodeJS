@@ -1,5 +1,5 @@
 # Weather Application
-A simple weather application that will display the current Temperature od any given valid address. It demonstrates the use of Google Geolocation and Forcast.io API in Node JS. 
+A simple weather application that will display the current Temperature of any given valid address. It demonstrates the use of Google Geolocation and Forcast.io API in Node JS. 
 
 ## Cloning the application
 Clone the repository on your computer and run:
