@@ -15,7 +15,7 @@ The application is using:
 * Callback Functions and API
 * Chaining Callback Functions
 * HTTP Request
-* Promises
+* Promises using axios
 * arrays and functions extensively.
 * Parse/Stringify to convert JavaScript objects into string and vice versa.
 * YARGS module to read the input from the command line.
